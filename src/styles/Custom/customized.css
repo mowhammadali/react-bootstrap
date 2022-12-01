@@ -1,0 +1,49 @@
+@font-face {
+  font-family: vazir;
+  src: url("../../assets/fonts/Vazir.eot") format("eot"), url("../../assets/fonts/Vazir.woff") format("woff");
+}
+.p-6 {
+  padding: 4rem !important;
+}
+
+.px-6 {
+  padding: 0 4rem !important;
+}
+
+.py-6 {
+  padding: 4rem 0 !important;
+}
+
+.m-6 {
+  margin: 4rem !important;
+}
+
+.mt-6 {
+  margin-top: 4rem !important;
+}
+
+.mb-6 {
+  margin-bottom: 4rem !important;
+}
+
+.mx-6 {
+  margin: 0 4rem !important;
+}
+
+.my-6 {
+  margin: 4rem 0 !important;
+}
+
+.mb-7 {
+  margin-bottom: 6rem !important;
+}
+
+.fs-7 {
+  font-size: 14px !important;
+}
+
+.w-90{
+  width: 90% !important;
+}
+
+/*# sourceMappingURL=customized.css.map */
