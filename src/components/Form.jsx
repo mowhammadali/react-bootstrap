@@ -15,8 +15,7 @@ const Form = () => {
     const {isDark} = useContext(ToggleContext);
     return (
         <Container className='py-2 mb-7'>
-            <div className='row px-md-3 px-lg-4'>
-                <div className='row gy-4'>
+            <div className='row px-md-3 px-lg-4 gy-4'>
                     <div className='col-12 text-center'>
                         <p className='h3' css={`color: ${props => props.theme.textColor};`}>لورم ایپسوم متن ساختگی</p>
                     </div>
@@ -66,7 +65,6 @@ const Form = () => {
                             </div>
                         </div>
                     </div>
-                </div>
             </div>
         </Container>
     );
